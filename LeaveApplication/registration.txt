@@ -1,0 +1,8 @@
+Amrinder	Kaur	95-09-24	amri12	ABC.LTD	manager	amrinderkaur	amrinderkaur
+Puja	Kaur	95-09-24	puja12	DEF.co	utility	amrinderkaur	amrinderkaur
+Harminder	Singh	90-02-04	90-02-04	GHI.hkia	Chef	harmindersingh	harmindersingh
+Happy	Singh	90-02-04	happy12	JKL.oops	Cashier	harmindersingh	harmindersingh
+Harminder	Singh	90-02-04	harmi12	KLM.ca	Chef	harmindersingh	harmindersingh
+Shikha	Goyal	96-01-15	shikha	web.ca	web developer	shikhagoyal	shikhagoyal
+Kritika	Shreshtha	95-11-10	kittu	Java.ca	Painter	kittukittu	kittukittu
+Sweta 	Rajhans	95-05-06	sweta95	OS.ca	HR	swetarajhans	swetarajhans
